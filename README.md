@@ -1,5 +1,5 @@
-https://forthebadge.com/images/badges/made-with-c.svg
-https://forthebadge.com/images/badges/made-with-python.svg
+![forthebadge made-with-c](https://forthebadge.com/images/badges/made-with-c.svg)
+![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)
 
 ## CMPE275_Research_Lab_02
 
