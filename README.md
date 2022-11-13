@@ -1,3 +1,6 @@
+https://forthebadge.com/images/badges/made-with-c.svg
+https://forthebadge.com/images/badges/made-with-python.svg
+
 ## CMPE275_Research_Lab_02
 
 ## Project Members:
