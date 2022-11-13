@@ -1,6 +1,3 @@
-# CMPE275_Research_Lab2
-
-
 ## CMPE275_Research_Lab_02
 
 ## Project Members:
