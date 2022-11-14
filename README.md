@@ -25,4 +25,9 @@
 
 
 
-## Approach:
+## Execution steps:
+1) pip install gcc
+2) pip install ctypes-windows-sdk
+3) gcc -fPIC -shared -o maxprofit.so maxprofit.c
+4) python -u python_ctypes.py
+
