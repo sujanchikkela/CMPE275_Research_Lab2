@@ -2,6 +2,7 @@
 import ctypes
 import time
 import numpy as np
+from maxprofitpython import *
 
 # generate .so file from the .c file and invike the .so file in the .py file
 librefObject = ctypes.CDLL('/home/rakshith/maxprofit.so')
@@ -40,17 +41,6 @@ print("the max profit calculated is " , profit)
 
 # Get the time stamp after the function execution.
 print("--- time taken in Python ctypes is %s seconds---" % (time.time() - start_time))
-
-
-# defining the same alogorithm in pure python
-def maxProfit(prices):
-    max_profit = 0
-    for i in range(len(prices) - 1):
-        for j in range(i + 1, len(prices)):
-            profit = prices[j] - prices[i]
-            if profit > max_profit:
-                max_profit = profit
-        return max_profit
 
 # Get the time stamp before the function execution.
 start_time_python = time.time()
