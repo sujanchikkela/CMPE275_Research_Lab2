@@ -14,17 +14,6 @@
 | Akshay Madiwalar | https://github.com/akshaymadiwalar |
 
 
-## Collaboration Plan:
-
-
-
-
-## Objective:
-
-
-
-
-
 ## Execution steps:
 1) pip install gcc
 2) pip install ctypes-windows-sdk
